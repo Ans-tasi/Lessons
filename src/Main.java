@@ -9,7 +9,7 @@ public class Main {
                 "Корея", 890.99, true);
         productsArray[3] = new Product("Калейдоскоп", "01.01.2024", "Фабер",
                 "Китай", 250.00, true);
-        productsArray[4] = new Product("Юла", "10.10.2025", "ООО Радость",
+         productsArray[4] = new Product("Юла", "10.10.2025", "ООО Радость",
                 "Россия", 150.99, false);
 
         System.out.println("Список всех товаров");
